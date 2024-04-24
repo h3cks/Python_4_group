@@ -1,7 +1,9 @@
-Surname: Іванов
-Question: Як створити список у Python?
 
-Surname: Петров
-Answer: Для створення списку у Python використовується квадратні дужки [], наприклад: my_list = [1, 2, 3].
-Next Question: Як видалити елемент зі списку у Python?
+Surname: РЎСѓС‰РµРЅРєРѕ
+Question: РЇРє СЃС‚РІРѕСЂРёС‚Рё СЃРїРёСЃРѕРє Сѓ Python?
+
+Surname: ???
+Answer: ???
+Next Question: ???
+
 
